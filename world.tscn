@@ -14,7 +14,6 @@
 [ext_resource type="PackedScene" uid="uid://cf3l54d2eesq0" path="res://asset/nature/glTF/Bush_Common_Flowers.gltf" id="12_hiqwa"]
 [ext_resource type="PackedScene" uid="uid://dc82faealw2w0" path="res://asset/nature/glTF/Fern_1.gltf" id="13_2u3nc"]
 [ext_resource type="PackedScene" uid="uid://cu670f3tl04by" path="res://asset/nature/glTF/Pebble_Round_4.gltf" id="14_udxuc"]
-[ext_resource type="PackedScene" uid="uid://coda41almik2d" path="res://asset/nature/glTF/RockPath_Round_Small_3.gltf" id="15_ikiii"]
 [ext_resource type="PackedScene" uid="uid://dlt4l5iovnpmy" path="res://asset/nature/glTF/Pebble_Round_3.gltf" id="16_cbp6q"]
 [ext_resource type="PackedScene" uid="uid://fngrq2724f3o" path="res://player.tscn" id="17_udxuc"]
 [ext_resource type="PackedScene" uid="uid://bo0bngdhmfljl" path="res://asset/nature/glTF/Pebble_Round_1.gltf" id="18_ikiii"]
@@ -171,84 +170,6 @@ transform = Transform3D(2, 0, 0, 0, 2, 0, 0, 0, 2, -7.976288, 0.5056319, 0.61349
 
 [node name="Pebble_Round_43" parent="." unique_id=46565866 instance=ExtResource("14_udxuc")]
 transform = Transform3D(2, 0, 0, 0, 2, 0, 0, 0, 2, -9.135729, 0.5056319, 0.3916664)
-
-[node name="RockPath_Round_Small_32" parent="." unique_id=609104481 instance=ExtResource("15_ikiii")]
-transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, -9.100911, 0.50779796, -22.909533)
-
-[node name="RockPath_Round_Small_35" parent="." unique_id=1321787025 instance=ExtResource("15_ikiii")]
-transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, -9.100911, 0.50779796, -19.248508)
-
-[node name="RockPath_Round_Small_36" parent="." unique_id=334022826 instance=ExtResource("15_ikiii")]
-transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, -9.100911, 0.50779796, -15.617012)
-
-[node name="RockPath_Round_Small_37" parent="." unique_id=517628177 instance=ExtResource("15_ikiii")]
-transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, -9.100911, 0.50779796, -12.157071)
-
-[node name="RockPath_Round_Small_38" parent="." unique_id=973270673 instance=ExtResource("15_ikiii")]
-transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, -9.100911, 0.50779796, -8.690351)
-
-[node name="RockPath_Round_Small_39" parent="." unique_id=1690589718 instance=ExtResource("15_ikiii")]
-transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, -9.100911, 0.50779796, -5.1431684)
-
-[node name="RockPath_Round_Small_40" parent="." unique_id=149452872 instance=ExtResource("15_ikiii")]
-transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, -8.07332, 0.50779796, -1.3720471)
-
-[node name="RockPath_Round_Small_41" parent="." unique_id=1293010166 instance=ExtResource("15_ikiii")]
-transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, -9.100911, 0.50779796, 2.5724072)
-
-[node name="RockPath_Round_Small_42" parent="." unique_id=829654514 instance=ExtResource("15_ikiii")]
-transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, -9.100911, 0.50779796, 4.955518)
-
-[node name="RockPath_Round_Small_43" parent="." unique_id=1518270306 instance=ExtResource("15_ikiii")]
-transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, -9.100911, 0.50779796, 8.41902)
-
-[node name="RockPath_Round_Small_44" parent="." unique_id=1085912251 instance=ExtResource("15_ikiii")]
-transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, -9.100911, 0.50779796, 11.552427)
-
-[node name="RockPath_Round_Small_33" parent="." unique_id=1694993281 instance=ExtResource("15_ikiii")]
-transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, 20.615078, 0.50779796, -0.9708729)
-
-[node name="RockPath_Round_Small_57" parent="." unique_id=1619058423 instance=ExtResource("15_ikiii")]
-transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, 23.874989, 0.50779796, -0.9708729)
-
-[node name="RockPath_Round_Small_49" parent="." unique_id=1524737770 instance=ExtResource("15_ikiii")]
-transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, 17.411234, 0.50779796, -0.9708729)
-
-[node name="RockPath_Round_Small_50" parent="." unique_id=1719765328 instance=ExtResource("15_ikiii")]
-transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, 14.256172, 0.50779796, -0.9708729)
-
-[node name="RockPath_Round_Small_51" parent="." unique_id=1814839411 instance=ExtResource("15_ikiii")]
-transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, 11.046694, 0.50779796, -0.9708729)
-
-[node name="RockPath_Round_Small_52" parent="." unique_id=166212242 instance=ExtResource("15_ikiii")]
-transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, 7.9106464, 0.50779796, -0.9708729)
-
-[node name="RockPath_Round_Small_53" parent="." unique_id=607647913 instance=ExtResource("15_ikiii")]
-transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, 4.830427, 0.50779796, -0.9708729)
-
-[node name="RockPath_Round_Small_54" parent="." unique_id=467573151 instance=ExtResource("15_ikiii")]
-transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, 1.683836, 0.50779796, -0.9708729)
-
-[node name="RockPath_Round_Small_55" parent="." unique_id=1157280159 instance=ExtResource("15_ikiii")]
-transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, -1.5880232, 0.50779796, -0.9708729)
-
-[node name="RockPath_Round_Small_56" parent="." unique_id=433259165 instance=ExtResource("15_ikiii")]
-transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, -4.77617, 0.50779796, -0.9708729)
-
-[node name="RockPath_Round_Small_34" parent="." unique_id=1281980069 instance=ExtResource("15_ikiii")]
-transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, -23.296864, 0.50779796, -0.9708729)
-
-[node name="RockPath_Round_Small_45" parent="." unique_id=1002743285 instance=ExtResource("15_ikiii")]
-transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, -20.10709, 0.50779796, -0.9708729)
-
-[node name="RockPath_Round_Small_46" parent="." unique_id=618602812 instance=ExtResource("15_ikiii")]
-transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, -16.914848, 0.50779796, -0.9708729)
-
-[node name="RockPath_Round_Small_47" parent="." unique_id=422818852 instance=ExtResource("15_ikiii")]
-transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, -13.717167, 0.50779796, -0.9708729)
-
-[node name="RockPath_Round_Small_48" parent="." unique_id=582376982 instance=ExtResource("15_ikiii")]
-transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, -10.84337, 0.50779796, -0.9708729)
 
 [node name="Pebble_Round_32" parent="." unique_id=156957053 instance=ExtResource("16_cbp6q")]
 transform = Transform3D(3, 0, 0, 0, 3, 0, 0, 0, 3, -7.242711, 0.5017521, 1.170721)

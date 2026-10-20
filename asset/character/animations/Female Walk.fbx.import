@@ -3,13 +3,13 @@
 importer="animation_library"
 importer_version=1
 type="AnimationLibrary"
-uid="uid://d4ncpw03dprtp"
-path="res://.godot/imported/run.fbx-490dfcb4ceff889f9eec54b3580bcfdb.res"
+uid="uid://dhrmn0n3100yj"
+path="res://.godot/imported/Female Walk.fbx-ffe52972780950e83458039bbfab7ba8.res"
 
 [deps]
 
-source_file="res://asset/character/animations/run.fbx"
-dest_files=["res://.godot/imported/run.fbx-490dfcb4ceff889f9eec54b3580bcfdb.res"]
+source_file="res://asset/character/animations/Female Walk.fbx"
+dest_files=["res://.godot/imported/Female Walk.fbx-ffe52972780950e83458039bbfab7ba8.res"]
 
 [params]
 

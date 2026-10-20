@@ -3,13 +3,13 @@
 importer="animation_library"
 importer_version=1
 type="AnimationLibrary"
-uid="uid://b3cga7u7c8doq"
-path="res://.godot/imported/walk.fbx-943c1d6e85ca10e84c26f5edd248f567.res"
+uid="uid://cy1h84cvfim30"
+path="res://.godot/imported/Talking.fbx-64d11ef111bcddb70e3bf3c015c285d8.res"
 
 [deps]
 
-source_file="res://asset/character/animations/walk.fbx"
-dest_files=["res://.godot/imported/walk.fbx-943c1d6e85ca10e84c26f5edd248f567.res"]
+source_file="res://asset/character/animations/Talking.fbx"
+dest_files=["res://.godot/imported/Talking.fbx-64d11ef111bcddb70e3bf3c015c285d8.res"]
 
 [params]
 
